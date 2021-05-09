@@ -32,7 +32,7 @@ I'm a JS and TS script developer, focusing mainly on Discord tools. Although I m
 
 <p align="center">
 &nbsp; <a href="https://twitter.com/thebignic___" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://discord.gg/2EdW48mNBY"><img src="https://img.icons8.com/doodle/48/000000/discord-logo.png" width="50" /></a>
+&nbsp; <a href="https://discord.gg/2EdW48mNBY"><img src="https://img.icons8.com/plasticine/100/000000/discord-logo.png"/></a>
 </p>
 
 ⭐️ From [Nic](https://github.com/thebignic)
